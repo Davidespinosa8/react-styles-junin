@@ -12,17 +12,17 @@ export function RegisterPage() {
     <div className="wrapper">
       <div className="form">
         <h2 className="title">
-          Sign up <span>and join us!</span>
+          Conectar
         </h2>
         <form onSubmit={handleSubmit}>
           <input
             type="email"
-            placeholder="Enter your email"
+            placeholder="Email"
             className="input"
           />
           <input
             type="password"
-            placeholder="Password"
+            placeholder="Contraseña"
             className="input"
           />
           <input

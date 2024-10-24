@@ -9,10 +9,10 @@
 /* LOGIN y register*/
 
 .wrapper {
-  display: flex; /* Usar flexbox para centrar */
-  align-items: center; /* Centra verticalmente */
-  justify-content: center; /* Centra horizontalmente */
-  height: 100vh; /* Altura completa de la ventana */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 .form {
